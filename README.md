@@ -16,6 +16,8 @@ It can be used to:
 
 <img width="600" alt="Hexora example" src="docs/example.gif">
 
+It's able to detect 2-10 new malicious packages on PyPI each day:
+<img alt="PyPI security" src="./assets/pypi_security.png" >
 
 # Examples
 
